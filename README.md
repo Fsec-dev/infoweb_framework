@@ -24,5 +24,5 @@ python3 -m pip install beautifulsoup4
 ## Demo:
 <img src="demo.gif">
 
-
-
+### Version:
+``v1.0``
